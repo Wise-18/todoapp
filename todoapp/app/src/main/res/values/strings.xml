@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="title_hint">Task Title</string>
+    <string name="description_hint">Task Description</string>
+    <string name="due_date_hint">Due Date</string>
+    <string name="priority_hint">Priority (1-5)</string>
+    <string name="save_task">Save Task</string>
+    <string name="delete_task">Delete Task</string>
+</resources>
